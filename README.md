@@ -15,3 +15,5 @@ We are in charge of identifying users who are likely to cancel their subscriptio
 By subscribing to the membership, our customers have provided us with the data on their finances, as well as how they handle those finances through the product. We also have some demographic information we acquired from them during the sign-up process.
 
 Financial data can often be unreliable and delayed. As a result, companies can build their marketing models using demographic data, and data related to finances handled through the product itself. Therefore, we will be restricting ourselves to only using that type of data. Furthermore, product-related data is more indicative of what new features we should be creating as a company.
+
+In this project, we will be taking a different approach for data pre-processing which should result in a deeper understanding of data engineering.
